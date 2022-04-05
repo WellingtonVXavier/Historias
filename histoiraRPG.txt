@@ -1,1 +1,3 @@
-criei esse arquivo para subir minha historia para o git.
+05/04/2022 
+Subi a História para o GitHub com esse relatório, afim de tentar
+uma organização em todos os repositórios que tenho que subir.
